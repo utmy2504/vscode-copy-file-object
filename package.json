@@ -3,7 +3,7 @@
   "displayName": "Copy Finder File Object",
   "description": "Copy files from VS Code as macOS Finder file objects.",
   "version": "0.0.1",
-  "publisher": "local",
+  "publisher": "mymy0205",
   "engines": {
     "vscode": "^1.90.0"
   },
